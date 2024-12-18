@@ -1,0 +1,1 @@
+# Pal-s-Sudden-Service---Strategic-Analysis
