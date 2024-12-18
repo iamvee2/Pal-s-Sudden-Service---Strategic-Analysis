@@ -1,4 +1,4 @@
-# Pal-s-Sudden-Service-Strategic-Analysis
+# Pal's Sudden Service-Strategic Analysis
 
 * Conducted a strategic analysis of Pal’s Sudden Service using frameworks such as SWOT, Porter’s Five Forces, and Value Chain Analysis.
 * Identified strengths in operational efficiency and quality focus while addressing weaknesses like limited regional coverage and menu restrictions.
